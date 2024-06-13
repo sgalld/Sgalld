@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💜
 
-<!--
-**sgalld/Sgalld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Stela Galdino 
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma [Alura](http://ww.alura.com.br)
+- Estou me desenvolvendo na linguangem JavaScript
+- Ultilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo através do 📬
+
+Email institucional- 00001081140902sp@al.educacao.sp.gov.br
+ 
+Email profissional- stelagaldinocorreia@gmail.com
+
+![](https://media1.tenor.com/m/Faoc0RLFGMUAAAAC/deadpool3-tva.gif)
